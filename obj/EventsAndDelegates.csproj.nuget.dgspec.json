@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tmk\\Documents\\C_sharp_projects\\EventsAndDelegates\\EventsAndDelegates.csproj": {}
+    "C:\\Users\\tmk\\Documents\\VideoEncoder\\EventsAndDelegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tmk\\Documents\\C_sharp_projects\\EventsAndDelegates\\EventsAndDelegates.csproj": {
+    "C:\\Users\\tmk\\Documents\\VideoEncoder\\EventsAndDelegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tmk\\Documents\\C_sharp_projects\\EventsAndDelegates\\EventsAndDelegates.csproj",
+        "projectUniqueName": "C:\\Users\\tmk\\Documents\\VideoEncoder\\EventsAndDelegates.csproj",
         "projectName": "EventsAndDelegates",
-        "projectPath": "C:\\Users\\tmk\\Documents\\C_sharp_projects\\EventsAndDelegates\\EventsAndDelegates.csproj",
+        "projectPath": "C:\\Users\\tmk\\Documents\\VideoEncoder\\EventsAndDelegates.csproj",
         "packagesPath": "C:\\Users\\tmk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tmk\\Documents\\C_sharp_projects\\EventsAndDelegates\\obj\\",
+        "outputPath": "C:\\Users\\tmk\\Documents\\VideoEncoder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

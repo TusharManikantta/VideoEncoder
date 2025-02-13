@@ -1,0 +1,15 @@
+C:\Users\tmk\Documents\VideoEncoder\bin\Debug\net9.0\EventsAndDelegates.exe
+C:\Users\tmk\Documents\VideoEncoder\bin\Debug\net9.0\EventsAndDelegates.deps.json
+C:\Users\tmk\Documents\VideoEncoder\bin\Debug\net9.0\EventsAndDelegates.runtimeconfig.json
+C:\Users\tmk\Documents\VideoEncoder\bin\Debug\net9.0\EventsAndDelegates.dll
+C:\Users\tmk\Documents\VideoEncoder\bin\Debug\net9.0\EventsAndDelegates.pdb
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.sourcelink.json
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.dll
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\refint\EventsAndDelegates.dll
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.pdb
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\EventsAndDelegates.genruntimeconfig.cache
+C:\Users\tmk\Documents\VideoEncoder\obj\Debug\net9.0\ref\EventsAndDelegates.dll

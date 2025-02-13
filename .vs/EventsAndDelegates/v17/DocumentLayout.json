@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmk\\Documents\\VideoEncoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|c:\\users\\tmk\\documents\\videoencoder\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|solutionrelative:videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|c:\\users\\tmk\\documents\\videoencoder\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|solutionrelative:video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|c:\\users\\tmk\\documents\\videoencoder\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|solutionrelative:mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|c:\\users\\tmk\\documents\\videoencoder\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F14368C-C717-462B-8FB7-03C31D980CF6}|EventsAndDelegates.csproj|solutionrelative:messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\tmk\\Documents\\VideoEncoder\\Video.cs",
+              "RelativeDocumentMoniker": "Video.cs",
+              "ToolTip": "C:\\Users\\tmk\\Documents\\VideoEncoder\\Video.cs",
+              "RelativeToolTip": "Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:43:48.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\tmk\\Documents\\VideoEncoder\\MessageService.cs",
+              "RelativeDocumentMoniker": "MessageService.cs",
+              "ToolTip": "C:\\Users\\tmk\\Documents\\VideoEncoder\\MessageService.cs",
+              "RelativeToolTip": "MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:39:55.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\tmk\\Documents\\VideoEncoder\\MailService.cs",
+              "RelativeDocumentMoniker": "MailService.cs",
+              "ToolTip": "C:\\Users\\tmk\\Documents\\VideoEncoder\\MailService.cs",
+              "RelativeToolTip": "MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:38:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\tmk\\Documents\\VideoEncoder\\VideoEncoder.cs",
+              "RelativeDocumentMoniker": "VideoEncoder.cs",
+              "ToolTip": "C:\\Users\\tmk\\Documents\\VideoEncoder\\VideoEncoder.cs",
+              "RelativeToolTip": "VideoEncoder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:29:55.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
